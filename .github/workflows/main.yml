@@ -2,9 +2,8 @@ name: Keep HuggingFace Alive
 
 on:
   schedule:
-    # يشتغل تلقائياً كل 10 دقائق
     - cron: '*/10 * * * *'
-  workflow_dispatch: # زر للتشغيل اليدوي للتجربة
+  workflow_dispatch:
 
 jobs:
   ping_job:
@@ -13,4 +12,5 @@ jobs:
       - name: Send Ping
         run: |
           curl -s -L "https://ayman001jihad-jstta.hf.space" > /dev/null
-          echo "تم إرسال الإشارة بنجاح!"
+          curl -s -L "https://ayman001jihad-myomarbot.hf.space" > /dev/null
+          echo "تم إرسال الإشارات للجميع بنجاح!"
