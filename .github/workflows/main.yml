@@ -12,5 +12,5 @@ jobs:
     steps:
       - name: Send Ping
         run: |
-          curl -s -L "https://ayman001jihad-jstta.hf.spacegithub/workflows/ping.yml" > /dev/null
+          curl -s -L "https://ayman001jihad-jstta.hf.space" > /dev/null
           echo "تم إرسال الإشارة بنجاح!"
