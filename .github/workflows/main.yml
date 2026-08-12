@@ -13,4 +13,6 @@ jobs:
         run: |
           curl -s -L "https://ayman001jihad-jstta.hf.space" > /dev/null
           curl -s -L "https://ayman001jihad-myomarbot.hf.space" > /dev/null
+          curl -s -L "https://ayman001jihad-jjkl.hf.space" > /dev/null
+          curl -s -L "https://omarji-omarjihad.hf.space" > /dev/null
           echo "تم إرسال الإشارات للجميع بنجاح!"
