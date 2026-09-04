@@ -16,4 +16,6 @@ jobs:
           curl -s -L "https://ayman001jihad-jjkl.hf.space" > /dev/null
           curl -s -L "https://omarji-omarjihad.hf.space" > /dev/null
           curl -s -L "https://naruto1011-auctoinwar.hf.space" > /dev/null
+          curl -s -L "https://oth1-mylauncher.hf.space" > /dev/null
+          curl -s -L "https://naruto1011-ojm.hf.space" > /dev/null
           echo "تم إرسال الإشارات للجميع بنجاح!"
